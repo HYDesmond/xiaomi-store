@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # xiaomi-store
 
 > A Vue.js project
@@ -16,3 +17,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# xiaomi-store
+>>>>>>> ca9efea6810e3d4aff2158f31dbf7a77ebc03a52
